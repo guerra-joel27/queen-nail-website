@@ -17,8 +17,8 @@ function Home (){
         heroImg={CarImg} 
         title="WELCOME TO QUEEN'S NAILS"
         text="The best Nailshop in Kaufman County"
-        buttonText="Schedule an Appointment"
-        url="/"
+        buttonText="Go to book Database Management"
+        url="/bookhome"
         btnClass="show"/>
 
         <PopularServices/>
